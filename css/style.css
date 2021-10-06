@@ -94,7 +94,7 @@ body {
     margin: 50px;
 }
 .hi_text{
-    color: #0000FF;
+    color: #20B2AA;
     font-size: 40px;
     font-weight: 600;
 }
@@ -105,10 +105,10 @@ body {
 }
 
 .hi_body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 30px;
-    font-weight: 500;
-    color: #0000FF;
+    font-weight: 600;
+    color: #20B2AA;
     line-height: 1;
 
 }
@@ -118,10 +118,11 @@ input [type="text"], [type="tel"], [type="text"], [type="date"] {
     height: 35px;
     margin-bottom: 10px;
     border-radius: 10px;
-    background-color: #00FFFF;
-    color: #0000FF;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #d0fafa;
+    color: #20B2AA;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
+    font-weight: 600;
    
 }
 
@@ -130,11 +131,12 @@ input [type="text"], [type="tel"], [type="text"], [type="date"] {
     height: 42px;
     margin-bottom: 10px;
     border-radius: 10px;
-    background-color: #00FFFF;
-    color: #0000FF;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #d0fafa;
+    color: #20B2AA;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
     font-weight: 500;
+    font-weight: 600;
 }
 
 .select-type2 {
@@ -142,17 +144,19 @@ input [type="text"], [type="tel"], [type="text"], [type="date"] {
     height: 35px;
     margin-bottom: 10px;
     border-radius: 10px;
-    background-color: #00FFFF; 
-    color: #0000FF;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #d0fafa; 
+    color: #20B2AA;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
+    font-weight: 600;
 }
 
 .hi_left {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 30px;
     font-weight: 500;
-    color: #0000FF;
+    color: #20B2AA;
+    font-weight: 600;
     line-height: 1;
 }
 
@@ -161,11 +165,12 @@ input [type="text"], [type="tel"], [type="text"], [type="date"] {
     height: 45px;
     margin-bottom: 10px;
     border-radius: 10px;
-    color: #0000FF;
-    background-color: #00FFFF;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #20B2AA;
+    background-color: #d0fafa;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 22px;
-    border: 3px solid #0000FF;
+    border: 3px solid #20B2AA;
+    font-weight: 600;
 }
 
 .form_row_1{
